@@ -1,1 +1,2 @@
-fix merge1
+#!/bin/bash
+echo "ALX School is so cool!"
